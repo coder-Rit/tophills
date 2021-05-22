@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tophills/static/css/main.ea21cd93.chunk.css",
+    "main.js": "/tophills/static/js/main.30a9e6e0.chunk.js",
+    "main.js.map": "/tophills/static/js/main.30a9e6e0.chunk.js.map",
+    "runtime-main.js": "/tophills/static/js/runtime-main.d360b8dd.js",
+    "runtime-main.js.map": "/tophills/static/js/runtime-main.d360b8dd.js.map",
+    "static/js/2.5648bbb6.chunk.js": "/tophills/static/js/2.5648bbb6.chunk.js",
+    "static/js/2.5648bbb6.chunk.js.map": "/tophills/static/js/2.5648bbb6.chunk.js.map",
+    "index.html": "/tophills/index.html",
+    "static/css/main.ea21cd93.chunk.css.map": "/tophills/static/css/main.ea21cd93.chunk.css.map",
+    "static/js/2.5648bbb6.chunk.js.LICENSE.txt": "/tophills/static/js/2.5648bbb6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/tophills/static/media/toa-heftiba-Fv2yqBcRkqg-unsplash.2f90f68a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d360b8dd.js",
+    "static/js/2.5648bbb6.chunk.js",
+    "static/css/main.ea21cd93.chunk.css",
+    "static/js/main.30a9e6e0.chunk.js"
+  ]
+}
